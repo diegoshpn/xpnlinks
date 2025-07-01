@@ -10,8 +10,7 @@ import {
     query,
     orderBy,
     doc,
-    deleteDoc,
-    setDoc
+    deleteDoc
  } from "firebase/firestore";
 
  interface LinkProps{
